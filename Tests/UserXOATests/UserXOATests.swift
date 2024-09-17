@@ -1,7 +1,7 @@
 import XCTest
-@testable import AuthenticationXOA
+@testable import UserXOA
 
-final class AuthenticationXOATests: XCTestCase {
+final class UserXOATests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
